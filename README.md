@@ -38,3 +38,7 @@ La aplicación mostrará el patrón encontrado y actualizará la gráfica con lo
 
 5. Ver la gráfica:
 La aplicación graficará los datos, destacando el primer y último valor con colores amarillo y verde, respectivamente.
+
+## Prueba de Fucionalidad
+
+![image](https://github.com/user-attachments/assets/ab1c3bb7-221d-4824-a45c-be61d001ec24)
